@@ -1,0 +1,14 @@
+* {
+    background-color: rgb(234, 191, 127);
+    font-family: Tahoma, sans-serif;
+    margin-left:15px
+}
+
+h1 {
+    font-size: 50px;
+}
+
+img {
+    width: 750px;
+    height: auto
+}
